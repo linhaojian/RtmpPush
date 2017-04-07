@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\liveRtmpPushSDK\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android_rtmppush_sdk-master\\android_rtmppush_sdk-master\\liveRtmpPushSDK\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\onLine\\RtmpPush\\liveRtmpPushSDK\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\onLine\\RtmpPush\\liveRtmpPushSDK\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\RtmpPush\\liveRtmpPushSDK\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\AndroidStudioProjects\\RtmpPush\\liveRtmpPushSDK\\src\\main\\res\\menu\\main.xml"
+    }
+]
